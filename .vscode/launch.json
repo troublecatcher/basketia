@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "iPhone Big",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "8B471D6E-3925-44F0-99B5-6DA1E8551114"
+        },
+        {
+            "name": "iPad",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "4A02B404-BAA5-4A27-B628-6D5F69249BCE"
+        },
+        {
+            "name": "iPhone Small",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "BA69C1BE-DB5A-4812-8CF1-C7F6A7D8AA95"
+        },
+        
+    ],
+    "compounds": [
+        {
+            "name": "All devices",
+            "configurations": [
+                "iPhone Big","iPad","iPhone Small"
+            ]
+        }
+    ]
+}
