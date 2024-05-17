@@ -29,7 +29,7 @@ In a “how did that happen” kind of game — the kind of ending that can turn
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/bc4d16c/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2Fdb%2F20f614b8473b886b80ac196bab42%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2152323887',
       minRead: 2,
-      dateTime: DateTime.utc(2024, 5, 14, 1, 15),
+      dateTime: DateTime.utc(2024, 5, 16, 1, 15),
     ),
     News(
       title:
@@ -50,7 +50,7 @@ Beyond Game 4, these playoffs were important to the Cavaliers keeping Mitchell l
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/a8e7eeb/2147483647/strip/true/crop/5747x3233+0+299/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fa2%2Fbfb63d49478d815b2fcca3263e93%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2152263814',
       minRead: 5,
-      dateTime: DateTime.utc(2024, 5, 13, 18, 41),
+      dateTime: DateTime.utc(2024, 5, 16, 18, 41),
     ),
     News(
       title:
@@ -69,7 +69,7 @@ Ingram is a high-level isolation scorer who averaged 20.8 points, 5.7 assists, a
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/23242f7/2147483647/strip/true/crop/7608x4280+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2Fad%2Fecb5678043e5af9cc73a4177eb3b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2149612610',
       minRead: 3,
-      dateTime: DateTime.utc(2024, 5, 13, 13, 23),
+      dateTime: DateTime.utc(2024, 5, 16, 13, 23),
     ),
     News(
       title:
@@ -88,7 +88,7 @@ If Bronny keeps his name in the 2024 NBA Draft (he can return to college and ent
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/aaf41cd/2147483647/strip/true/crop/7113x4001+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F21%2Fd78241ca4d7a888208944bf9415f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2086562145',
       minRead: 5,
-      dateTime: DateTime.utc(2024, 5, 13, 12, 37),
+      dateTime: DateTime.utc(2024, 5, 16, 12, 37),
     ),
   ];
 
@@ -110,7 +110,7 @@ Those are far from the only names flying around. Jovan Buha of The Athletic sugg
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/9d57d2d/2147483647/strip/true/crop/4626x2602+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Fa3%2F2d3880b1458a8584073b8389bea6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1794024798',
       minRead: 5,
-      dateTime: DateTime.utc(2024, 5, 12, 13, 10),
+      dateTime: DateTime.utc(2024, 5, 15, 13, 10),
     ),
     News(
       title:
@@ -127,7 +127,7 @@ When LeBron James called Wembanyama an alien, he wasn’t kidding — and you ha
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/73b13cb/2147483647/strip/true/crop/5568x3132+0+290/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F81%2F7af8ea224bd5ae4145a669df26c3%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2151994189',
       minRead: 2,
-      dateTime: DateTime.utc(2024, 5, 12, 12, 24),
+      dateTime: DateTime.utc(2024, 5, 15, 12, 24),
     ),
     News(
       title:
@@ -142,7 +142,7 @@ The result was a 106-93 Boston win in Game 3 on the road, giving the Celtics a 2
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/0f82984/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2F61%2Fd129e63c44439314b5dcc60b21e5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2151991677',
       minRead: 3,
-      dateTime: DateTime.utc(2024, 5, 12, 12, 32),
+      dateTime: DateTime.utc(2024, 5, 15, 12, 32),
     ),
     News(
       title:
@@ -157,7 +157,7 @@ What won Dallas Game 3 was 27 points from P.J. Washington — Oklahoma City has 
       imgLink:
           'https://nbcsports.brightspotcdn.com/dims4/default/d4f0654/2147483647/strip/true/crop/3296x1854+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fa6%2F0fa5b3774f2783b8a728df311f90%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D23248613',
       minRead: 2,
-      dateTime: DateTime.utc(2024, 5, 12, 19, 32),
+      dateTime: DateTime.utc(2024, 5, 15, 19, 32),
     ),
   ];
 }
